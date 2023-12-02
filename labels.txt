@@ -1,0 +1,5 @@
+0 Acnes
+1 Birthmark
+2 Melanoma
+3 Sunburn
+4 Tattoo
